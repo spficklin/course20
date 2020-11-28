@@ -70,6 +70,9 @@ entries:
       title: Azure Functions
       url: /deployment_azure_functions
     - output: web,pdf
+      title: BentoML
+      url: /deployment_bento
+    - output: web,pdf
       title: SeeMe.ai
       url: /deployment_seeme_ai
     output: web
